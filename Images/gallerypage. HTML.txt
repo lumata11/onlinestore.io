@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head> <!----The header--->
+        <meta name="description" content="">
+        <meta charset="nft-8">
+        <title></title>
+
+        <!---How you connect to your css file--->
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body> <!---The body--->
+        <nav>
+            <ul>
+                <li><a href="INDEX.HTML">Home</a></li>
+                <li><a href="INDEX.HTML">About</a></li>
+                <li><a href="INDEX.HTML">Gallery</a></li>
+                <li><a href="INDEX.HTML">Contact</a></li>
+            </ul>    
+        </nav>    
+    <img src="images/modern-bakery-logo-design-template-e979c6db88d6772062e4090687c00b7e_screen.jpg"> <!---Adding an image--->
+    
+    <h1>WELCOME TO THE CAKEY BAKEY (Shop Online)</h1>    
+
+    <h2>To Know</h2>
+
+    <p>
+        If someone ever tells you that it's too early to be eating cake,
+        cut them off because you don't need that kind of negativity in your life!
+        And while you don't need an excuse to eat cakes and bakes from The Cakey Bakey.
+        Choose from a selection of sponge flavours (like red velvet cake or chocolate cake) and decorations to find the perfect birthday cake or baby shower cake.
+        Some designs are simple and tasteful, and others are more extravagant and elegant.
+    </p>
+
+    <img src="images/colourful cake.jpg"> <!---adding an image--->
+    
+<h3>CEO/Founder: Sibanyoni Lindiwe </h3> <!---header tag--->
+ <img src="images/baker.jpg"> <!---adding an image--->     
+
+<p> <!---About Lindiwe--->
+Lindiwe is an aspiring young South African Baker that believes
+in attention to detail when making her beatiful cake creations. She studied Bread Making and Baking Skills at Anchor Bakery Training Centre. Her love for baking propelled her
+ to establishing Cakey Bakey in 2013. She specialises in cake and pastry production.
+<p/>
+
+</body>   
+    
+<footer> <!---The footer--->    
+<hr> <!---a horizontal line---> 
+
+<h4>Gallery <h/4> <!---header tag--->
+<img src="images/caramelcake.jpg"> <!---adding an image--->
+<img src="images/"> <!---adding an image--->
+<img src="images/"> <!---adding an image--->
+<img src="images/"> <!---adding an image--->
+
+<!---Adding the social media images--->
+<img src="images/icons8-facebook-48.png">
+<img src="images/icons8-instagram-48.png">
+<img src="images/icons8-twitter-48.png">
+<img src="images/icons8-whatsapp-48.png">
+
+</footer>
+
+</html>
