@@ -1,25 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head> <!----The header--->
+        <meta name="description" content="">
+        <meta charset="nft-8">
+        <title>CakeyBakeyOnline</title>
+
+        <!---How you connect to your css file--->
+        <link rel="stylesheet" href="style.css">
+    </head>
+
 <body> <!---The body--->
     <div class="container">
-        <nav class="desk">
-        <ul>
-            <li class="active"<a href="index.html">Home</a></li><!--the anchor tag-->
-            <li><a href="about.html">About</a></li>
-            <li><a href="gallery.html">Gallery</a></li>
-            <li><a href="contact.html">Contact</a></li>
+        <nav class="desk" >
+            <ul>
+                <li><a href="index.html">Home</a></li><!--the anchor tag-->
+                <li><a href="about.html">About</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact</a></li>
 
-        </ul>    
+            </ul>    
         </nav> 
 
-<h1>CONTACT</h1> <!---header tag--->
-<input type="text" placeholder="Enter Your Name"> <!---input value from the user--->
-<input type="text" placeholder="Enter Your Surname"> <!---input value from the user--->
-<input type="text" placeholder="Enter Your Email Address"> <!---input value from the user--->
-<textarea placeholder="Leave a Message"></textarea> <!---input value from the user--->
-<button>Send Message</button> <!---a button for the user to submit their message--->
+<div class="contact-container">
+<h1 class="main-heading">Contact</h1>
+<br>
+<div class="login">
 
-<h2>Phone Number: 011-9085-990</h2> <!---header tag--->
-<h3>Email: info@cakeybakey.com</h3> <!---header tag--->
+    <form id="contactForm"></form>
+
+<input type="text" placeholder="Enter Your Name" id="name"> <!---input value from the user--->
+<input type="text" placeholder="Enter Your Surname" id="surname"> <!---input value from the user--->
+<input type="text" placeholder="Enter Your Email Address" id="email"> <!---input value from the user--->
+
+<div class="msg">
+<textarea placeholder="Leave a Message" id="message"></textarea> <!---input value from the user--->
+</div>
+
+<div class="btn">Send Message <!---a button for the user to submit their mesaage---></div>
+
+
+
+</div>
+</div>
+
+<h1>Phone Number: 011-9085-990</h1> <!---header tag--->
+<h1>Email: info@cakeybakey.com</h1> <!---header tag--->
 <h4>Address: 106 Veleary Ave,Midrand,South Africa</h4> <!---header tag--->
 <h5>1304</h5> <!---header tag--->
+
 </body>
-    </div>
+</div>

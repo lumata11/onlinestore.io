@@ -1,4 +1,3 @@
-
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
@@ -8,13 +7,13 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "xxxxxxx",
-  authDomain: "xxxxxxx",
-  projectId: "xxxxxxx",
-  storageBucket: "xxxxxxx",
-  messagingSenderId: "xxxxxxx",
-  appId: "xxxxxxx",
-  measurementId: "xxxxxxx"
+  apiKey: "AIzaSyDbbzip6BDqjW6Q9BTKVd6mvreaZmv9hd0",
+  authDomain: "shoponlinebakery.firebaseapp.com",
+  projectId: "shoponlinebakery",
+  storageBucket: "shoponlinebakery.appspot.com",
+  messagingSenderId: "626555301422",
+  appId: "1:626555301422:web:9ddb7e6da7e967652939bf",
+  measurementId: "${config.measurementId}"
 };
 
 // Initialize Firebase
